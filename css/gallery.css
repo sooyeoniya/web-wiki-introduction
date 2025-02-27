@@ -8,53 +8,54 @@
 .cell {
   width: var(--gallery-cell-size);
   height: var(--gallery-cell-size);
-  background-size: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
   background-position: center 100%;
 }
 
 .love-one {
-  /* 가족 */
-  background-image: url("../images/profile.jpg");
+  /* 가족 - 동생 사진 못찾음 */
+  background-image: url("../images/gallery/love/family.png");
 }
 
 .love-two {
   /* 우리집 냥이들 - 새콤달콤 */
-  background-image: url("../images/profile.jpg");
+  background-image: url("../images/gallery/love/my-pet.png");
 }
 
 .love-three {
-  /* 친구들 - 인생네컷 */
-  background-image: url("../images/profile.jpg");
+  /* 인간관계 - 나에게 좋은 영향을 주는 사람들 */
+  background-image: url("../images/gallery/love/friend.png");
 }
 
 .love-four {
   /* 기록 - 일기, 학습 내용 정리, 편지들, 편지 써주기 등 */
-  background-image: url("../images/profile.jpg");
+  background-image: url("../images/gallery/love/record.png");
 }
 
 .love-five {
   /* 나 */
-  background-image: url("../images/profile.jpg");
+  background-image: url("../images/gallery/love/me.png");
 }
 
 .love-six {
   /* 단 음식 - 케이크, 초콜릿, 빵 등 */
-  background-image: url("../images/profile.jpg");
+  background-image: url("../images/gallery/love/cake.jpg");
 }
 
 .love-seven {
   /* 노래듣기 */
-  background-image: url("../images/profile.jpg");
+  background-image: url("../images/gallery/love/song.jpg");
 }
 
 .love-eight {
   /* 지도 거리뷰 구경하기 - 구글어스, 구글맵, 네이버맵, 카카오맵 */
-  background-image: url("../images/profile.jpg");
+  background-image: url("../images/gallery/love/google-earth.jpg");
 }
 
 .love-nine {
   /* 귀여운 동물들 (요즘 빠진 동물 - 햄스터) */
-  background-image: url("../images/profile.jpg");
+  background-image: url("../images/gallery/love/hamster.jpeg");
 }
 
 .trip-one {
