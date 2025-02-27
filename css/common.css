@@ -1,1 +1,20 @@
 @import url("https://fonts.googleapis.com/css2?family=Jua&family=Noto+Sans+KR&display=swap");
+
+:root {
+  --page-padding: 48px;
+  --page-subtitle-margin-y: 32px;
+  --page-paragraph-margin-y: 16px;
+  --right-sidebar-padding: 32px;
+
+  --header-width: 235px;
+  --header-bg-color: #f6f6f6;
+
+  --aside-width: 350px;
+  --aside-bg-color: #f6f6f6;
+
+  --divider-color: #efefef;
+  --font-default-color: #333;
+
+  --gallery-wrapper-size: 750px;
+  --gallery-cell-size: 250px;
+}
