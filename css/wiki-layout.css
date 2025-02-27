@@ -80,6 +80,10 @@ article {
   flex-flow: column;
 }
 
+article {
+  margin-bottom: var(--page-subtitle-margin-y);
+}
+
 div.thumbnail {
   display: flex;
   justify-content: center;

@@ -3,7 +3,6 @@
   flex-wrap: wrap;
   width: var(--gallery-wrapper-size);
   height: var(--gallery-wrapper-size);
-  margin-bottom: var(--page-subtitle-margin-y);
 }
 
 .cell {
