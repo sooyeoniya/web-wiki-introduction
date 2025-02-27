@@ -1,0 +1,122 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  width: var(--gallery-wrapper-size);
+  height: var(--gallery-wrapper-size);
+  margin-bottom: var(--page-subtitle-margin-y);
+}
+
+.cell {
+  width: var(--gallery-cell-size);
+  height: var(--gallery-cell-size);
+  background-size: 100%;
+  background-position: center 100%;
+}
+
+.love-one {
+  background-image: url("../images/profile.jpg");
+}
+
+.love-two {
+  background-image: url("../images/profile.jpg");
+}
+
+.love-three {
+  background-image: url("../images/profile.jpg");
+}
+
+.love-four {
+  background-image: url("../images/profile.jpg");
+}
+
+.love-five {
+  background-image: url("../images/profile.jpg");
+}
+
+.love-six {
+  background-image: url("../images/profile.jpg");
+}
+
+.love-seven {
+  background-image: url("../images/profile.jpg");
+}
+
+.love-eight {
+  background-image: url("../images/profile.jpg");
+}
+
+.love-nine {
+  background-image: url("../images/profile.jpg");
+}
+
+.trip-one {
+  background-image: url("../images/profile.jpg");
+}
+
+.trip-two {
+  background-image: url("../images/profile.jpg");
+}
+
+.trip-three {
+  background-image: url("../images/profile.jpg");
+}
+
+.trip-four {
+  background-image: url("../images/profile.jpg");
+}
+
+.trip-five {
+  background-image: url("../images/profile.jpg");
+}
+
+.trip-six {
+  background-image: url("../images/profile.jpg");
+}
+
+.trip-seven {
+  background-image: url("../images/profile.jpg");
+}
+
+.trip-eight {
+  background-image: url("../images/profile.jpg");
+}
+
+.trip-nine {
+  background-image: url("../images/profile.jpg");
+}
+
+.bucket-one {
+  background-image: url("../images/profile.jpg");
+}
+
+.bucket-two {
+  background-image: url("../images/profile.jpg");
+}
+
+.bucket-three {
+  background-image: url("../images/profile.jpg");
+}
+
+.bucket-four {
+  background-image: url("../images/profile.jpg");
+}
+
+.bucket-five {
+  background-image: url("../images/profile.jpg");
+}
+
+.bucket-six {
+  background-image: url("../images/profile.jpg");
+}
+
+.bucket-seven {
+  background-image: url("../images/profile.jpg");
+}
+
+.bucket-eight {
+  background-image: url("../images/profile.jpg");
+}
+
+.bucket-nine {
+  background-image: url("../images/profile.jpg");
+}
