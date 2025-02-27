@@ -150,3 +150,7 @@ footer {
 footer p {
   margin-top: 8px;
 }
+
+article p {
+  margin-bottom: var(--page-paragraph-margin-y);
+}

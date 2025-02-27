@@ -127,3 +127,15 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+a {
+  text-decoration-line: none;
+  color: dodgerblue;
+  /*   text-decoration-line: underline; */
+  /*   text-decoration-line: overline; */
+  /*   text-decoration-line: line-through; */
+  /*   text-decoration-line: underline line-through overline; */
+}
+a:hover {
+  color: rgb(29, 125, 221);
+  text-decoration-line: underline;
+}

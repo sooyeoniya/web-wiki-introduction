@@ -13,38 +13,47 @@
 }
 
 .love-one {
+  /* 가족 */
   background-image: url("../images/profile.jpg");
 }
 
 .love-two {
+  /* 우리집 냥이들 - 새콤달콤 */
   background-image: url("../images/profile.jpg");
 }
 
 .love-three {
+  /* 친구들 - 인생네컷 */
   background-image: url("../images/profile.jpg");
 }
 
 .love-four {
+  /* 기록 - 일기, 학습 내용 정리, 편지들, 편지 써주기 등 */
   background-image: url("../images/profile.jpg");
 }
 
 .love-five {
+  /* 나 */
   background-image: url("../images/profile.jpg");
 }
 
 .love-six {
+  /* 단 음식 - 케이크, 초콜릿, 빵 등 */
   background-image: url("../images/profile.jpg");
 }
 
 .love-seven {
+  /* 노래듣기 */
   background-image: url("../images/profile.jpg");
 }
 
 .love-eight {
+  /* 지도 거리뷰 구경하기 - 구글어스, 구글맵, 네이버맵, 카카오맵 */
   background-image: url("../images/profile.jpg");
 }
 
 .love-nine {
+  /* 귀여운 동물들 (요즘 빠진 동물 - 햄스터) */
   background-image: url("../images/profile.jpg");
 }
 
