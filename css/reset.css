@@ -139,3 +139,6 @@ a:hover {
   color: rgb(29, 125, 221);
   text-decoration-line: underline;
 }
+html {
+  scroll-behavior: smooth;
+}
